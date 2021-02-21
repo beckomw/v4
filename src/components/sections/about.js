@@ -142,7 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>Hello! I'm Wayne Beckom, a recruiting & sales professional based in Passaic, NJ.
-            I'm currently learning how to create seamless websites and data-centric webapps! I'm currently looking for a software engineering opportunity where I can use my sales background
+            I'm currently learning how to create seamless websites and data-centric webapps! I'm currently looking for a software engineering opportunity where I can use my sales background to maximize profits or a team's productivity.
             (I'm also open to relocating!)</p>
 
             <p>
@@ -152,10 +152,10 @@ const About = () => {
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              My professional recruiting & sales background started at{' '}
+              <a href="https://www.hays.com/">Hay's Recruitment</a>, here I recruited Accounting & Finance profesionals for Construction & Property. 
+              I then was headhunted to join <a href="https://www.michaelpage.com/">Michael Page</a> where I worked on recruiting finance professionals and managing accounts for the financial services industries.
+            
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
