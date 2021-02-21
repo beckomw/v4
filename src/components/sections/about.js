@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Amazon Web Services', 'Node.js', 'SQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,12 +141,14 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Wayne Beckom, a recruiting & sales professional based in Passaic, NJ.</p>
+            <p>Hello! I'm Wayne Beckom, a recruiting & sales professional based in Passaic, NJ.
+            I'm currently learning how to create seamless websites and data-centric webapps! I'm currently looking for a software engineering opportunity where I can use my sales background
+            (I'm also open to relocating!)</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
+              I enjoy creating things that help my teams succeed, whether that be websites,
               applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              quality data metrics in a stylish presentation, or web functions that can be used in an everyday business development setting.
             </p>
 
             <p>
