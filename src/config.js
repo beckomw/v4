@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://codepen.io/beckomw',
     },
   ],
 
