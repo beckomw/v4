@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Wayne Allen Beckom.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const three = <h3 className="big-heading">I make things for the web.</h3>;
   const four = (
     <p>
     Hello! I'm Wayne Beckom, a recruiting & sales professional based in Passaic, NJ.
